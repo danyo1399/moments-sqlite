@@ -18,6 +18,8 @@ github.com/danyo1399/moments v0.0.10 h1:PCaA1RkM9lGoauOHJAvjVteuUe0lxQCXj+GWZJMF
 github.com/danyo1399/moments v0.0.10/go.mod h1:Qgzl+4ra/a7vX+j6DRgATa7/bj7jLiNcrJIKsDuwdo4=
 github.com/danyo1399/moments v0.0.11 h1:ViXD8t0CQRX0/sE8Fv0U987mNrOLIa9xwjXiDBsUx3s=
 github.com/danyo1399/moments v0.0.11/go.mod h1:Qgzl+4ra/a7vX+j6DRgATa7/bj7jLiNcrJIKsDuwdo4=
+github.com/danyo1399/moments v0.0.12 h1:9D62Z+k/0b13oxzBNuxT04MTdMbmOqIv+BUfWXLmfkY=
+github.com/danyo1399/moments v0.0.12/go.mod h1:Qgzl+4ra/a7vX+j6DRgATa7/bj7jLiNcrJIKsDuwdo4=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
